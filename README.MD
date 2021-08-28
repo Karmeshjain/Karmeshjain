@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone Myself Karmesh Duggar</h1>
+<h1 align="center">Hello everyone I'm Karmesh Duggar</h1>
 <h3 align="center">Enthusiastic Learner with a passion of programming and become a developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
