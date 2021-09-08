@@ -68,17 +68,17 @@
 
 
 <p align="left">
-  <a href="https://github.com/Karmeshjain/Leetcodecodes"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=Leetcodecodes" alt="Leetcode"></a>
+  <a href="https://github.com/Karmeshjain/Leetcodecodes"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=false&repo=Leetcodecodes" alt="Leetcode"></a>
     &nbsp;  &nbsp;  &nbsp;  &nbsp;
-<a href="https://github.com/Karmeshjain/Hackerrankcodes"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=Hackerrankcodes" alt="Hackerrankcodes"></a>
+<a href="https://github.com/Karmeshjain/Hackerrankcodes"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=false&repo=Hackerrankcodes" alt="Hackerrankcodes"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/Karmeshjain/UnityProject7_Sleuth"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=UnityProject7_Sleuth" alt="Sleuth"></a>
+  <a href="https://github.com/Karmeshjain/UnityProject7_Sleuth"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=false&repo=UnityProject7_Sleuth" alt="Sleuth"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/Karmeshjain/Sunshine"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=Sunshine" alt="Sunshine"></a>
+  <a href="https://github.com/Karmeshjain/Sunshine"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=false&repo=Sunshine" alt="Sunshine"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/Karmeshjain/PetsApp"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=PetsApp" alt="PetsApp"></a>
+  <a href="https://github.com/Karmeshjain/PetsApp"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=false&repo=PetsApp" alt="PetsApp"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/Karmeshjain/QuakeReport"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=QuakeReport" alt="QuakeReport"></a>
+  <a href="https://github.com/Karmeshjain/QuakeReport"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=false&repo=QuakeReport" alt="QuakeReport"></a>
 </p>
 &nbsp;  &nbsp;
 
@@ -86,13 +86,14 @@
 
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Git Hub Strea" alt="Git Hub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karmeshjain&theme=monokai-metallian&hide_border=false"/>
+    <img title="🔥 Git Hub Strea" alt="Git Hub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karmeshjain&theme=maroongold&hide_border=false"/>
   </a>
 </p>
 &nbsp;  &nbsp;
 
 ## 📊 Github stats
 
-![Anurag's GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=karmeshjain&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmeshjain&theme=maroongold&hide_border=false&show_icons=true)
+
 
 
