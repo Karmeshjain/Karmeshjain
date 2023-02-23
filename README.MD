@@ -76,9 +76,9 @@
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
   <a href="https://github.com/Karmeshjain/Sunshine"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=dark&hide_border=false&show_icons=false&repo=Sunshine" alt="Sunshine"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/Karmeshjain/PetsApp"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=dark&hide_border=false&show_icons=false&repo=PetsApp" alt="PetsApp"></a>
+  <a href="https://github.com/Karmeshjain/PopDoneApp"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=dark&hide_border=false&show_icons=false&repo=PopDoneApp" alt="PopDoneApp"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/Karmeshjain/QuakeReport"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=dark&hide_border=false&show_icons=false&repo=QuakeReport" alt="QuakeReport"></a>
+  <a href="https://github.com/Karmeshjain/fruitsapp"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=karmeshjain&theme=dark&hide_border=false&show_icons=false&repo=FruitsApp" alt="FruitsApp"></a>
 </p>
 &nbsp;  &nbsp;
 
